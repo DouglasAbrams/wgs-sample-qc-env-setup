@@ -1,39 +1,23 @@
-analytics-python==1.2.9
-azure-core==1.0.0
-azure-identity==1.2.0
-azure-keyvault-secrets==4.0.0
-azure-storage-blob==1.5.0
-azure-storage-common==1.4.2
-cached-property==1.4.2
 certifi==2020.12.5
 cycler==0.10.0
 decorator==4.4.2
 dill==0.3.3
-idna==2.7
 kiwisolver==1.3.1
 matplotlib==3.3.4
-msal==1.0.0
-msal-extensions==0.1.3
-msrest==0.6.10
-munch==2.3.2
 networkx==2.5
 numexpr==2.7.3
 numpy==1.20.1
 pandas==1.2.3
 Pillow==8.1.2
 pyparsing==2.4.7
-git+https://github.com/shahcompbio/pypeliner.git@b452c14c4abc6e653ac8e8f52d3c9b9a158becd1#egg=pypeliner
-pysam==0.15.3
+pypeliner @ git+https://github.com/shahcompbio/pypeliner.git@b452c14c4abc6e653ac8e8f52d3c9b9a158becd1
+pysam==0.16.0.1
 python-dateutil==2.8.1
-python-slugify==1.1.2
-pytz==2018.4
+pytz==2021.1
 PyVCF==0.6.8
-PyYAML==5.3
-requests==2.19.1
+PyYAML==5.4.1
 scipy==1.6.1
-six==1.11.0
+six==1.15.0
 tables==3.6.1
-Unidecode==1.2.0
-urllib3==1.23
-wgs @ git+https://github.com/shahcompbio/wgs.git@ac6ad9144fb91d30c0b9d458afe7a239d19dbea8
+wgs==0.1.18+4.g7aa0e45.dirty
 wgs-qc-utils @ git+https://github.com/shahcompbio/wgs_qc_utils.git@a66db67f2acfecd9acb4f9b80c36f481b59ac64b
