@@ -19,5 +19,5 @@ PyYAML==5.4.1
 scipy==1.6.1
 six==1.15.0
 tables==3.6.1
-wgs==0.1.18+4.g7aa0e45.dirty
-wgs-qc-utils @ git+https://github.com/shahcompbio/wgs_qc_utils.git@a66db67f2acfecd9acb4f9b80c36f481b59ac64b
+wgs @ git+https://github.com/shahcompbio/wgs.git@a2ad2411820e115a9aea6d1aa7744f629d033ec4
+wgs-qc-utils @ git+https://github.com/shahcompbio/wgs_qc_utils.git@6f40faa4f9e8abcc4671a35c9c4736354586eb62
